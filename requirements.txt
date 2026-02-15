@@ -4,7 +4,6 @@ python-dotenv
 scipy
 pandas
 numpy
-pyOMA2
 yfinance
 pandas-ta
 beautifulsoup4
